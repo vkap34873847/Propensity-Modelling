@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Financial Model - Bajaj Auto​",
+    "desc": "I analyzed Bajaj Auto’s 2023 stock performance, highlighting gains of 4.11% (5 days), 11.75% (1 month) & ₹6,070 all-time high and a 66% YTD increase.",
+    "image": "FMVAmodelf",
+    "category": "finance",
+    "links": {
+      "view": "https://drive.google.com/file/d/1FGyTq4g4IvzGvwqNhTiOU6ato_u7z6pE/view",
+      "details": "https://www.linkedin.com/in/vedanshkapoor/details/projects/"
+    }
+  },
+  {
+    "name": "VAR Analysis Report",
+    "desc": "In this project, I meticulously examined the intricacies of assessing risk in stock investments, focusing on the application of Value at Risk (VAR).",
+    "image": "VAR",
+    "category": "finance",
+    "links": {
+      "view": "https://drive.google.com/file/d/10Sm1FB1PMMIP0o3N98H1r-r6PmW25Fin/view",
+      "details": "https://www.linkedin.com/in/vedanshkapoor/details/projects/"
+    }
+  },
+  {
+    "name": "DuPont Analysis",
+    "desc": "Introducing DuPont Analysis for financial insights, I applied it to FY23 data, revealing a 20.47% ROE drop post-lockdown.",
+    "image": "Dupont",
+    "category": "finance",
+    "links": {
+      "view": "https://drive.google.com/file/d/1Zo7kRPPrCC9lcTMoq6spaMWJDcgoCN_y/view",
+      "details": "https://www.linkedin.com/in/vedanshkapoor/details/projects/"
+    }
+  },
+  {
+    "name": "Altman's Z Score Analysis",
+    "desc": "I conducted financial analyses using Altman’s Z score, a powerful tool for predicting bankruptcy risk.",
+    "image": "Altman",
+    "category": "finance",
+    "links": {
+      "view": "https://drive.google.com/file/d/1CunvlKJlaWkfdQf8IIY5Qgcmpp_OqIiO/view",
+      "details": "https://www.linkedin.com/in/vedanshkapoor/details/projects/"
+    }
+  },
+  {
+    "name": "One Page Profile (OPP)",
+    "desc": "I created a detailed One Page Profile for Bajaj Auto, breaking down complex financial information into an easy-to-understand format",
+    "image": "OPP",
+    "category": "finance",
+    "links": {
+      "view": "https://drive.google.com/file/d/1s49MDM33egHoJwCr4-EjC2SI3Yktv7Fh/view",
+      "details": "https://www.linkedin.com/in/vedanshkapoor/details/projects/"
+    }
+  },
+  {
+    "name": "Ratio Analysis Report",
+    "desc": "Conducted a comprehensive ratio analysis of IndusInd Bank as part of an academic project",
+    "image": "Bank",
+    "category": "finance",
+    "links": {
+      "view": "https://drive.google.com/file/d/1hR80-z1OmWYOJuS6_a_p-JfUo8k0euNp/view",
+      "details": "https://www.linkedin.com/in/vedanshkapoor/details/projects/"
+    }
+  },
+  {
+    "name": "FMVA - Interglobe Ltd",
+    "desc": "In this report, I assessed the valuation of IndiGo, a major player in the Indian aviation industry.",
+    "image": "Indigo",
+    "category": "finance",
+    "links": {
+      "view": "https://drive.google.com/file/d/1iIsEOtdtdoRYJ9w4ozMULsWAycv-qd_z/view",
+      "details": "https://www.linkedin.com/in/vedanshkapoor/details/projects/"
+    }
+  },
+  {
+    "name": "Equity Research Report",
+    "desc": "I crafted an Equity Research Report, Initiating Coverage on 𝐁𝐚𝐣𝐚𝐣 𝐀𝐮𝐭𝐨",
+    "image": "ER",
+    "category": "finance",
+    "links": {
+      "view": "https://drive.google.com/file/d/1D09V7vypqmOb8URdKWTyNBPTVw7XDnxm/view",
+      "details": "https://www.linkedin.com/in/vedanshkapoor/details/projects/"
+    }
+  },
+  {
+    "name": "Sumz - PDF Summarizer",
+    "desc": "I developed a full stack working powerful PDF summarizer named Sumz that takes links of articles and summarises them.",
+    "image": "SUMz",
+    "category": "web",
+    "links": {
+      "view": "https://sumz-pdf.netlify.app/",
+      "details": "https://sumz-pdf.netlify.app/"
+    }
+  }
+]
