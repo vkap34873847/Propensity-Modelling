@@ -88,5 +88,15 @@
       "view": "https://sumz-pdf.netlify.app/",
       "details": "https://sumz-pdf.netlify.app/"
     }
+  },
+    {
+    "name": "Sumz - PDF Summarizer",
+    "desc": "I developed a full stack working powerful PDF summarizer named Sumz that takes links of articles and summarises them.",
+    "image": "SUMz",
+    "category": "web",
+    "links": {
+      "view": "https://sumz-pdf.netlify.app/",
+      "details": "https://sumz-pdf.netlify.app/"
+    }
   }
 ]
